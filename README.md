@@ -11,7 +11,7 @@
 <br />
 <br />
 
-Near Beauty is a roguelike game which you need a Near Protocol Account to start the game and redeem your bountry assets.
+Near Beauty is a roguelike game which you need a Near Protocol Account to start the game. Complete the quests and redeem your blockchain assets!
 
 ### To run on main Testnet
 #### Requirements
