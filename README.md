@@ -2,13 +2,16 @@
 <br />
 
 <p>
-<img src="https://corgis.nearprotocol.com/static/media/logo.6b6d06b2.png" width="340">
+<img width="1431" alt="屏幕快照 2020-05-19 下午5 22 58" src="https://user-images.githubusercontent.com/2507027/82379839-97245780-99f5-11ea-902f-983d09049b9e.png">
+  
+<img width="1299" alt="屏幕快照 2020-05-19 下午5 23 26" src="https://user-images.githubusercontent.com/2507027/82379872-a1deec80-99f5-11ea-81b6-5b7388fc21c8.png">
+
 </p>
 
 <br />
 <br />
 
-# Explore [Corgis](http://corgis.nearprotocol.com) when you first see this!
+Near Beauty is a roguelike game which you need a Near Protocol Account to start the game and redeem your bountry assets.
 
 ### To run on main Testnet
 #### Requirements
