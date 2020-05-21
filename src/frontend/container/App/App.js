@@ -96,7 +96,7 @@ export class App extends Component {
     }
 
     async requestSignIn() {
-        const appTitle = 'NEAR Corgi';
+        const appTitle = 'NEAR Beauty';
         await this.props.wallet.requestSignIn(
             window.nearConfig.contractName,
             appTitle
@@ -140,7 +140,7 @@ export class App extends Component {
 
     render() {
         return;
-        let { loggedIn, loaded, corgis, accountId, color, backgroundColor, newCorgiName, backDrop, back, dna } = this.state
+        let { loggedIn, loaded, corgis, accountId, backgroundColor, newCorgiName, backDrop, back, dna } = this.state
         let { contract } = this.props
         return (
             <div className="App">
